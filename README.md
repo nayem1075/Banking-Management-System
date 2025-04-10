@@ -47,10 +47,10 @@ src/com/mycompany/banking_management_system/ │ ├── Main.java ├── B
 
 ## References
 
-Java: The Complete Reference by Herbert Schildt
-YouTube tutorials on Java OOP and File Handling
-ChatGPT for debugging support and design refinement
-Class lectures and personal notes
+- ✅ Java The Complete Reference by Herbert Schildt
+- ✅ YouTube tutorials on Java OOP and File Handling
+- ✅ ChatGPT for debugging support and design refinement
+- ✅ Class lectures and personal notes
 
 
 
