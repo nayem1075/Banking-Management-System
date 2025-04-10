@@ -39,13 +39,13 @@ src/com/mycompany/banking_management_system/ │ ├── Main.java ├── B
 1. Clone the repository:
    https://github.com/nayem1075/Banking-Management-System
 
- 🙋‍♂️ Author
+## Author
  
 Debabarata Mallick
 Department of Computer Science and Engineering
 University Of Science And Technology Chittagong
 
-📚 References
+## References
 
 Java: The Complete Reference by Herbert Schildt
 YouTube tutorials on Java OOP and File Handling
