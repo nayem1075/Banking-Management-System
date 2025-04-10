@@ -14,7 +14,7 @@ public class UserInformation {
         this.email =  email;
     }
 
-     //Setter getter method acces Private variable.
+     //Setter getter method to access Private variable.
      public void setUserId(String userId){
          this.userId = userId;
      }
