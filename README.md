@@ -34,5 +34,23 @@ This is a console-based **Banking Management System** developed in Java using Ob
 
 src/com/mycompany/banking_management_system/ │ ├── Main.java ├── Bank.java ├── User.java ├── Account.java ├── Transaction.java ├── SecurityManager.java ├── DataStorageManager.java
 
+## 🚀 How to Run
+
+1. Clone the repository:
+   https://github.com/nayem1075/Banking-Management-System
+
+ 🙋‍♂️ Author
+ 
+Debabarata Mallick
+Department of Computer Science and Engineering
+University Of Science And Technology Chittagong
+
+📚 References
+
+Java: The Complete Reference by Herbert Schildt
+YouTube tutorials on Java OOP and File Handling
+ChatGPT for debugging support and design refinement
+Class lectures and personal notes
+
 
 
