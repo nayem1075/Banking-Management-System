@@ -47,7 +47,6 @@ public class UserInformation {
     public void displayInformation(){
         System.out.println("User ID : "+userId);
         System.out.println("User Name : "+userName);
-        System.out.println("Password : "+password);
         System.out.println("Email : "+email);
         System.out.println();
     }
