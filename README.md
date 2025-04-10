@@ -41,9 +41,9 @@ src/com/mycompany/banking_management_system/ │ ├── Main.java ├── B
 
 ## Author
  
-Debabarata Mallick
-Department of Computer Science and Engineering
-University Of Science And Technology Chittagong
+- ✅ Debabarata Mallick
+- ✅ Department of Computer Science and Engineering
+- ✅ University Of Science And Technology Chittagong
 
 ## References
 
