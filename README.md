@@ -32,7 +32,16 @@ This is a console-based **Banking Management System** developed in Java using Ob
 
 ## 📁 Project Structure
 
-src/com/mycompany/banking_management_system/ │ ├── Main.java ├── Bank.java ├── User.java ├── Account.java ├── Transaction.java ├── SecurityManager.java ├── DataStorageManager.java
+src/com/mycompany/banking_management_system/ │ 
+
+├── UserInformation.java 
+├── Account.java 
+├── Transaction.java
+├── Bank.java
+├── SecurityManager.java 
+├── DataStorageManager.java 
+├── Main.java ├── 
+
 
 ## 🚀 How to Run
 
