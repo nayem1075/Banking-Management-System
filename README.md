@@ -1,5 +1,15 @@
 # 🏦 Banking Management System (Java, OOP)
 
+### Class Order (My Preferred Sequence):
+
+1. UserInformation.java
+2. Account.java
+3. Transaction.java
+4. Bank.java
+5. SecurityManager.java
+6. DataStorage.java
+7. BankingManagementSystemMainMethod.java
+
 ## 📌 Description
 This is a console-based **Banking Management System** developed in Java using Object-Oriented Programming (OOP) principles. It allows users to create accounts, manage their bank accounts, perform transactions, and securely store data through file handling. The system emphasizes modular design, data integrity, and user-friendly operation.
 
