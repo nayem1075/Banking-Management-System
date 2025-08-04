@@ -46,7 +46,7 @@ src/com/mycompany/banking_management_system/
 ├── Main.java
 ## How to Run
 Clone the repository:
-https://github.com/nayem1075/Banking-Management-System
+https://github.com/nayem1075/Banking-Management-System                                                                                     
 Open the project in NetBeans or any Java IDE that supports Swing GUI.
 Run Main.java to start the Banking Management System with GUI.
 
