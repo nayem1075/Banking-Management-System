@@ -1,75 +1,61 @@
-#  Banking Management System (Java, OOP)
+# Banking Management System (Java, OOP, GUI)
 
-### Class Order (My Preferred Sequence):
+## Class Order (My Preferred Sequence):
 
-1. UserInformation.java
-2. Account.java
-3. Transaction.java
-4. Bank.java
-5. SecurityManager.java
-6. DataStorage.java
-7. BankingManagementSystemMainMethod.java
+UserInformation.java
+Account.ava
+Transaction.java
+Bank.java
+SecurityManager.java
+DataStorageManager.java
+Main.java
 
-##  Description
-This is a console-based **Banking Management System** developed in Java using Object-Oriented Programming (OOP) principles. It allows users to create accounts, manage their bank accounts, perform transactions, and securely store data through file handling. The system emphasizes modular design, data integrity, and user-friendly operation.
+## Description
+This is a Banking Management System built in Java, applying Object-Oriented Programming (OOP) principles along with a graphical user interface (GUI) using JFrame. The system allows users to create accounts, manage their bank accounts, perform transactions, and securely store data through file handling. The GUI provides a user-friendly experience while the system ensures modular design and data integrity.
 
+## Features
+- User registration and login verification
+- Account management (create account, deposit, withdraw, check balance)
+- Transaction processing (transfer money between accounts)
+- Display all accounts and their details
+- Password change functionality
+- Robust exception handling (invalid inputs, login errors, duplicates)
+- Persistent data storage using Java File I/O
 
-##  Features
+## OOP Concepts Used
+Encapsulation — Private fields with getters/setters
+Inheritance — Promotes code reuse and better design
+Polymorphism — Method overloading and overriding
+Abstraction — Hides complex logic and internal details
 
--  User creation and login verification  
--  Account management (create, deposit, withdraw, check balance)  
--  Transaction processing (transfer money between accounts)  
--  Displaying all accounts and details  
--  Password change feature  
--  Exception handling (invalid inputs, login errors, duplicate data)  
--  File management (save and load user data)
+## Technologies Used
+Programming Language: Java
+GUI: Swing (JFrame)
+IDE: NetBeans
+Data Storage: File system (using Java File I/O)
 
+## Project Structure
 
-##  OOP Concepts Used
-
-- **Encapsulation**: Properties are kept private and accessed using getters/setters  
-- **Inheritance**: Promotes code reuse and better structure  
-- **Polymorphism**: Uses method overloading and overriding for flexibility  
-- **Abstraction**: Simplifies complex logic and hides internal implementation
-
-
-##  Technologies Used
-
-- **Language**: Java  
-- **IDE**: NetBeans  
-- **Database**: File system (Java File I/O used for saving data)
-
-
-##  Project Structure
-
-src/com/mycompany/banking_management_system/ │ 
-
-├── UserInformation.java 
-├── Account.java 
+src/com/mycompany/banking_management_system/
+├── UserInformation.java
+├── Account.java
 ├── Transaction.java
 ├── Bank.java
-├── SecurityManager.java 
-├── DataStorageManager.java 
-├── Main.java ├── 
-
-
-##  How to Run
-
-1. Clone the repository:
-   https://github.com/nayem1075/Banking-Management-System
+├── SecurityManager.java
+├── DataStorageManager.java
+├── Main.java
+## How to Run
+Clone the repository:
+https://github.com/nayem1075/Banking-Management-System
+Open the project in NetBeans or any Java IDE that supports Swing GUI.
+Run Main.java to start the Banking Management System with GUI.
 
 ## Author
- 
--  Debabarata Mallick
--  Department of Computer Science and Engineering
--  University Of Science And Technology Chittagong
+Debabarata Mallick
+Department of Computer Science and Engineering
+University of Science and Technology Chittagong
 
 ## References
-
--  Java The Complete Reference by Herbert Schildt
--  YouTube tutorials on Java OOP and File Handling
--  ChatGPT for debugging support and design refinement
--  Class lectures and personal notes
-
-
-
+Java: The Complete Reference by Herbert Schildt
+YouTube tutorials on Java OOP, Swing GUI, and File Handling
+University class lectures and personal notes
