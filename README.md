@@ -53,7 +53,7 @@ src/com/mycompany/banking_management_system/ │
 ├── Main.java ├── 
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    https://github.com/nayem1075/Banking-Management-System
