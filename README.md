@@ -21,17 +21,17 @@ This is a Banking Management System built in Java, applying Object-Oriented Prog
 
 ## Features
 - User registration and login verification
-- 
+  
 - Account management (create account, deposit, withdraw, check balance)
-- 
+  
 - Transaction processing (transfer money between accounts)
-- 
+  
 - Display all accounts and their details
-- 
+  
 - Password change functionality
-- 
+  
 - Robust exception handling (invalid inputs, login errors, duplicates)
-- 
+  
 - Persistent data storage using Java File I/O
   
 
