@@ -50,9 +50,14 @@ https://github.com/nayem1075/Banking-Management-System
 Open the project in NetBeans or any Java IDE that supports Swing GUI.
 Run Main.java to start the Banking Management System with GUI.
 
+## About Me
+I’m Nayem Uddin, a Computer Science and Engineering student.
+I built this Banking Management System during my 2nd semester as part of my practice to improve my understanding of Java and Object-Oriented Programming (OOP).
+
+At the time, I had just learned the basics of Java and wanted to build something real using what I knew. This project helped me learn a lot — from how classes and objects work to how to handle files and even how to build a simple user interface using JFrame.
 ## Author
-Debabarata Mallick
-Department of Computer Science and Engineering
+Debabarata Mallick                                                                                                                         
+Department of Computer Science and Engineering                                                                                             
 University of Science and Technology Chittagong
 
 ## References
